@@ -15,7 +15,7 @@ namespace TeamCitySharp.IntegrationTests
            
         }
 
-        [Test]
+       /* [Test]
         public void it_will_authenticate_a_known_user()
         {
             _client.Connect("admin", "qwerty");
@@ -32,6 +32,6 @@ namespace TeamCitySharp.IntegrationTests
 
             //Assert.Throws Exception
         }
-
+*/
     }
 }

@@ -1,4 +1,5 @@
-﻿using NUnit.Framework;
+﻿/*
+using NUnit.Framework;
 using TeamCitySharp.DomainEntities;
 
 namespace TeamCitySharp.IntegrationTests
@@ -34,3 +35,4 @@ namespace TeamCitySharp.IntegrationTests
 
     }
 }
+*/
